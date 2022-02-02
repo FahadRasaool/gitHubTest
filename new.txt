@@ -1,0 +1,5 @@
+Today Completed:
+-try to found linkedin account connection issue but not found
+-Git file was not working in our smp app test and debug that issue
+-Find out gif file issue that our smp app not support gif
+-Understand how git work and create branches
