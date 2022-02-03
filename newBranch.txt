@@ -1,0 +1,28 @@
+fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ git branch
+  main
+* testBranch
+fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ git branch
+  main
+* testBranch
+fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ git branch
+  main
+* testBranch
+fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ git branch
+  main
+* testBranch
+fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ git branch
+  main
+* testBranch
+fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ git branch
+  main
+* testBranch
+fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ git branch
+  main
+* testBranch
+fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ git branch
+  main
+* testBranch
+fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ git branch
+  main
+* testBranch
+fistix-dev@dev-HP-Z220-SFF-Workstation:~/Desktop/gitHubTest$ 
