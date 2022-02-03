@@ -1,0 +1,12 @@
+git config --get commit.templategit config --get commit.templategit config --get commit.templategit config --get commit.templategit config --get commit.templategit config --get commit.templategit config --get commit.template
+git config --get commit.template
+git config --get commit.template
+git config --get commit.template
+git config --get commit.template
+git config --get commit.template
+git config --get commit.template
+git config --get commit.template
+git config --get commit.template
+git config --get commit.template
+git config --get commit.templategit config --get commit.templategit config --get commit.template
+git config --get commit.template
